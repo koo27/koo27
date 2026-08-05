@@ -53,7 +53,7 @@ PopcornHour [popcornhour.it](https://www.popcornhour.it)
 Modern movie social & discovery platform
 
 ### <img src="https://www.farmchain.it/images/logo-farmchain.png" alt="Farmchain" width="40">
-### Farmchain[farmchain.it](https://www.farmchain.it)
+### Farmchain [farmchain.it](https://www.farmchain.it)
 
 Blockchain traceability mobile application.
 
