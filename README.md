@@ -45,12 +45,15 @@ Over the last few years I've specialized in **React**, **Next.js** and **TypeScr
 ---
 ## 🌱 Featured Projects
 
-### <img src="https://www.popcornhour.it/icons/favicon.png" alt="PopcornHour" width="30" /> PopcornHour [popcornhour.it](https://www.popcornhour.it)
+
+### <img src="https://www.popcornhour.it/icons/favicon.png" alt="PopcornHour" width="30" />
+PopcornHour [popcornhour.it](https://www.popcornhour.it)
 
 
 Modern movie social & discovery platform
 
-### <img src="https://www.farmchain.it/images/logo-farmchain.png" alt="Farmchain" width="40" style="vertical-align:200px;"> Farmchain[farmchain.it](https://www.farmchain.it)
+### <img src="https://www.farmchain.it/images/logo-farmchain.png" alt="Farmchain" width="40">
+### Farmchain[farmchain.it](https://www.farmchain.it)
 
 Blockchain traceability mobile application.
 
